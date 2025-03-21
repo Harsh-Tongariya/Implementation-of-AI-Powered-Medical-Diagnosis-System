@@ -1,0 +1,2 @@
+# Implementation-of-AI-Powered-Medical-Diagnosis-System
+A Streamlit-based app contains the implementation of an AI-powered medical diagnosis system designed to assist healthcare professionals in identifying potential medical conditions based on patient data. The system leverages machine learning models to analyze symptoms, predict possible diseases, and provide recommendations for further evaluation.
